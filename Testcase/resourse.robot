@@ -3,7 +3,7 @@ Library    SeleniumLibrary
 
 *** Variables ***
 ${BROWSER}         Chrome
-${REGISTRATION_URL}    file:///e:/SoftwareEngineerLab/TestAutomationLab/Lab4/Registration.html
+${REGISTRATION_URL}    http://localhost:7272/Registration.html
 ${FIRSTNAME_ID}    firstname
 ${LASTNAME_ID}     lastname
 ${ORGANIZATION_ID}    organization
