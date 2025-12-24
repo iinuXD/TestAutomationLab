@@ -36,4 +36,4 @@ Verify Page Title Contains
 
 Get Error Message
     ${error}=    Get Text    id=errors
-    [Return]    ${error}
+    Return    ${error}
